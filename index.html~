@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Wattpad</title>
+	<link rel="stylesheet" href="./css/style.css">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+</head>
+<body id="main">
+	<header>
+		<div class="wrapper">
+			<ul class="left">
+				<li class="dropdown">
+					<img src="./svg/dropdown-bars.svg" alt="">
+				</li>
+				<a href="">
+					<img class="logo" src="./svg/logo.svg" alt="">
+				</a>
+				<li class="explore" tabindex="1">
+					<i class="close-dropdown" tabindex="1"></i>
+					<img class="compass" src="./svg/compass.svg" alt="">
+					<h6 class="compass">Khám phá</h6>
+					<img src="./svg/round-arrow-drop-down.svg" alt="">
+					<div class="explore-dropdown">
+						<div class="wrapper">
+						<ul>
+							<li>
+								<h6>Bí ẩn</h6>
+							</li>
+							<li>
+								<h6>Chicklit</h6>
+							</li>
+							<li>
+								<h6>Cổ điển</h6>
+							</li>
+							<li>
+								<h6>Fan fiction</h6>
+							</li>
+							<li>
+								<h6>Hài hước</h6>
+							</li>
+							<li>
+								<h6>Hành động</h6>
+							</li>
+							<li>
+								<h6>Khoa học viễn tưởng</h6>
+							</li>
+							<li>
+								<h6>Kinh dị</h6>
+							</li>
+						</ul>
+						<ul>
+							<li>
+								<h6>Lãng mạn</h6>
+							</li>
+							<li>
+								<h6>Ma cà rồng</h6>
+							</li>
+							<li>
+								<h6>Người sói</h6>
+							</li>
+							<li>
+								<h6>Ngẫu nhiên</h6>
+							</li>
+							<li>
+								<h6>Phi Tiểu Thuyết</h6>
+							</li>
+							<li>
+								<h6>Phiêu lưu</h6>
+							</li>
+							<li>
+								<h6>Siêu nhiên</h6>
+							</li>
+							<li>
+								<h6>Thriller</h6>
+							</li>
+						</ul>
+						<ul>
+							<li>
+								<h6>Thơ Ca</h6>
+							</li>
+							<li>
+								<h6>Tiểu Thuyết Chung</h6>
+							</li>
+							<li>
+								<h6>Tiểu Thuyết Lịch Sử</h6>
+							</li>
+							<li>
+								<h6>Tiểu Thuyết Thiếu Niên</h6>
+							</li>
+							<li>
+								<h6>Truyện Ngắn</h6>
+							</li>
+							<li>
+								<h6>Truyện Tâm Linh</h6>
+							</li>
+							<li>
+								<h6>Viễn Tưởng</h6>
+							</li>
+						</ul>
+						</div>
+					</div>
+				</li>
+				<li class="community" tabindex="1">
+					<i class="close-dropdown" tabindex="1"></i>
+					<img class="community" src="./svg/people-group.svg" alt="">
+					<h6 class="community">Cộng đồng</h6>
+					<img src="./svg/round-arrow-drop-down.svg" alt="">
+					<div class="community-dropdown">
+						<div class="wrapper">
+							<ul>
+								<li><h6>Giải thưởng Wattys</h6></li>
+								<li><h6>Community Happenings</h6></li>
+								<li><h6>Đại sứ Wattpad</h6></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+			</ul>
+			<ul class="search">
+				<li>
+					<input type="text" placeholder="Tìm kiếm">
+				</li>
+			</ul>
+			<ul class="right">
+				<a href="./create-fanfic.html">
+				<li class="write">
+					<img class="next-to-text" src="./svg/pencil.svg" alt="">
+					<h6 class="write">Viết</h6>
+					<img src="./svg/round-arrow-drop-down.svg" alt="">
+				</li>
+				</a>
+				<a href="./my-fanfic.html">
+					<li class="bookmarks">
+						<img src="./svg/bookmark.svg" alt="">
+					</li>
+				</a>
+				<li class="notification">
+					<img src="./svg/bell.svg" alt="">
+				</li>
+				<li class="profile">
+					<div class="profile-icon">
+						<img src="./img/profile.jpg" alt="">
+					</div>
+					<h6 class="username">s0m3guy</h6>
+				</li>
+			</ul>
+		</div>
+	</header>
+	<article>
+		<div class="wrapper">
+			<h4>Chào mừng đến trang chủ, s0m3guy!</h4>
+			<div class="section-details">
+				<h2>Truyện đã hoàn thành gần đây</h2>
+				<div class="frame">
+					<div class="background"></div>
+					<div class="left">
+						<ul class="thumbnail">
+							<li>
+								<img src="./img/selected-novel.jpg" alt="">
+							</li>
+						</ul>
+						<ul class="reader-options">
+							<li>
+								<img src="./svg/bookmark.svg" alt="">
+								<h6>Lưu</h6>
+							</li>
+							<li>
+								<img src="./svg/read.svg" alt="">
+								<h6>Đọc</h6>
+							</li>
+						</ul>
+					</div>
+					<div class="right">
+						<h3>Anh chỉ thích hình tượng của em</h3>
+						<ul>
+							<li>
+								<img src="./svg/eye.svg" alt="">
+								<p>12,5K</p>
+							</li>
+							<li>
+								<img src="./svg/bookmark.svg" alt="">
+								<p>12,5K</p>
+							</li>
+							<li>
+								<img src="./svg/chat-bubble.svg" alt="">
+								<p>12,5K</p>
+							</li>
+						</ul>
+						<p class="dialog">
+							<b>Tác giả:</b> Trĩ Sở <br>
+							<b>Dịch giả:</b> Tiểu Song Tử <br>
+							<b>Thể loại:</b> Hiện đại, niên hạ, giới giải trí, duyên trời tác hợp, chữa lành, minh tinh công x phong lưu họa sĩ thụ. <br>
+							<b>Số chương:</b> 94 chương + 21 ngoại truyện <br>
+							<b>Giới thiệu:</b> <br>
+							Hình tượng của Hạ Tập Thanh đúng chuẩn là một người nhìn cool ngầu, có vẻ mạnh mẽ, bản tính thì phong lưu, dựa vào khuôn mặt đẹp như thiên sứ mà lừa gạt vô số người.Không thể ngờ chơi dao mãi cũng có ngày đứt tay, vừa gặp thần tượng đã bị lộ tính cách thật, "lật xe" cực nhanh. Tham gia họp báo phim của thần tượng, chỉ xuất hiện 3 giây trên màn ảnh, ngay lập tức đã khiến cư dân mạng bùng nổ vì vẻ ngoài xinh đẹp, lấy thân phận fan Chu Tự Hành ra mắt vị trí Center, cùng thần tượng lên hot search, lên chương trình thực tế, lên… Không sai, giống hệt tưởng tượng của các bạn đó.....
+						</p>
+						<ul class="reader-options-mobile">
+							<li>
+								<img src="./svg/bookmark.svg" alt="">
+								<h6>Lưu</h6>
+							</li>
+							<li>
+								<img src="./svg/read.svg" alt="">
+								<h6>Đọc</h6>
+							</li>
+						</ul>
+					</div>
+				</div> 
+			</div>
+			<div class="section-carousel">
+				<ul>
+					<li class="arrows">
+						<img class="arrows" src="./svg/chevron-left.svg" alt="">
+					</li>
+					<li class="novel-1">
+						<img src="./img/novel-1.jpg" alt="">
+					</li>
+					<li class="novel-2">
+						<img src="./img/novel-2.jpg" alt="">
+					</li>
+					<li class="novel-3">
+						<img src="./img/novel-3.jpg" alt="">
+					</li>
+					<li class="novel-4">
+						<img src="./img/novel-4.jpg" alt="">
+					</li>
+					<li class="novel-5">
+						<img src="./img/novel-5.jpg" alt="">
+					</li>
+					<li class="arrows">
+						<img class="arrows" src="./svg/chevron-right.svg" alt="">
+					</li>
+				</ul>
+			</div>
+			<div class="section-carousel">
+				<h2>Truyện hay nhất đề xuất cho bạn</h2>
+				<ul>
+					<li class="arrows">
+						<img class="arrows" src="./svg/chevron-left.svg" alt="">
+					</li>
+					<li class="novel-1">
+						<img src="./img/novel-1.jpg" alt="">
+					</li>
+					<li class="novel-2">
+						<img src="./img/novel-2.jpg" alt="">
+					</li>
+					<li class="novel-3">
+						<img src="./img/novel-3.jpg" alt="">
+					</li>
+					<li class="novel-4">
+						<img src="./img/novel-4.jpg" alt="">
+					</li>
+					<li class="novel-5">
+						<img src="./img/novel-5.jpg" alt="">
+					</li>
+					<li class="arrows">
+						<img class="arrows" src="./svg/chevron-right.svg" alt="">
+					</li>
+				</ul>
+			</div>
+			<div class="section-carousel">
+				<h2>Truyện được thảo luận nhiều</h2>
+				<ul>
+					<li class="arrows">
+						<img class="arrows" src="./svg/chevron-left.svg" alt="">
+					</li>
+					<li class="novel-1">
+						<img src="./img/novel-1.jpg" alt="">
+					</li>
+					<li class="novel-2">
+						<img src="./img/novel-2.jpg" alt="">
+					</li>
+					<li class="novel-3">
+						<img src="./img/novel-3.jpg" alt="">
+					</li>
+					<li class="novel-4">
+						<img src="./img/novel-4.jpg" alt="">
+					</li>
+					<li class="novel-5">
+						<img src="./img/novel-5.jpg" alt="">
+					</li>
+					<li class="arrows">
+						<img class="arrows" src="./svg/chevron-right.svg" alt="">
+					</li>
+				</ul>
+			</div>
+			<div class="section-details">
+				<h2>Khám phá điều gì đó mới</h2>
+				<div class="frame">
+					<div class="background"></div>
+					<div class="left">
+						<ul class="thumbnail">
+							<li>
+								<img src="./img/selected-novel.jpg" alt="">
+							</li>
+						</ul>
+						<ul class="reader-options">
+							<li>
+								<img src="./svg/bookmark.svg" alt="">
+								<h6>Lưu</h6>
+							</li>
+							<li>
+								<img src="./svg/read.svg" alt="">
+								<h6>Đọc</h6>
+							</li>
+						</ul>
+					</div>
+					<div class="right">
+						<h3>Anh chỉ thích hình tượng của em</h3>
+						<ul>
+							<li>
+								<img src="./svg/eye.svg" alt="">
+								<p>12,5K</p>
+							</li>
+							<li>
+								<img src="./svg/bookmark.svg" alt="">
+								<p>12,5K</p>
+							</li>
+							<li>
+								<img src="./svg/chat-bubble.svg" alt="">
+								<p>12,5K</p>
+							</li>
+						</ul>
+						<p class="dialog">
+							<b>Tác giả:</b> Trĩ Sở <br>
+							<b>Dịch giả:</b> Tiểu Song Tử <br>
+							<b>Thể loại:</b> Hiện đại, niên hạ, giới giải trí, duyên trời tác hợp, chữa lành, minh tinh công x phong lưu họa sĩ thụ. <br>
+							<b>Số chương:</b> 94 chương + 21 ngoại truyện <br>
+							<b>Giới thiệu:</b> <br>
+							Hình tượng của Hạ Tập Thanh đúng chuẩn là một người nhìn cool ngầu, có vẻ mạnh mẽ, bản tính thì phong lưu, dựa vào khuôn mặt đẹp như thiên sứ mà lừa gạt vô số người.Không thể ngờ chơi dao mãi cũng có ngày đứt tay, vừa gặp thần tượng đã bị lộ tính cách thật, "lật xe" cực nhanh. Tham gia họp báo phim của thần tượng, chỉ xuất hiện 3 giây trên màn ảnh, ngay lập tức đã khiến cư dân mạng bùng nổ vì vẻ ngoài xinh đẹp, lấy thân phận fan Chu Tự Hành ra mắt vị trí Center, cùng thần tượng lên hot search, lên chương trình thực tế, lên… Không sai, giống hệt tưởng tượng của các bạn đó.....
+						</p>
+					</div>
+				</div> 
+			</div>
+			<div class="section-carousel">
+				<ul>
+					<li class="arrows">
+						<img class="arrows" src="./svg/chevron-left.svg" alt="">
+					</li>
+					<li class="novel-1">
+						<img src="./img/novel-1.jpg" alt="">
+					</li>
+					<li class="novel-2">
+						<img src="./img/novel-2.jpg" alt="">
+					</li>
+					<li class="novel-3">
+						<img src="./img/novel-3.jpg" alt="">
+					</li>
+					<li class="novel-4">
+						<img src="./img/novel-4.jpg" alt="">
+					</li>
+					<li class="novel-5">
+						<img src="./img/novel-5.jpg" alt="">
+					</li>
+					<li class="arrows">
+						<img class="arrows" src="./svg/chevron-right.svg" alt="">
+					</li>
+				</ul>
+			</div>
+		</div>
+	</article>
+	<footer>
+		<div class="wrapper">
+			<ul class="left">
+				<li><p>Kinh doanh</p></li>
+				<li><p>Các tác giả</p></li>
+				<li><p>Báo chí</p></li>
+			</ul>
+			<ul class="middle">
+				<li><p>Truyện tính phí</p></li>
+				<li><p>Thử dùng gói cao cấp</p></li>
+				<li><p>Tải ứng dụng</p></li>
+			</ul>
+			<ul class="right">
+				<li><p>Điều khoản</p></li>
+				<li><p>Bảo mật</p></li>
+				<li><p>Trợ giúp</p></li>
+			</ul>
+		</div>
+	</footer>
+	<div class="unsupported-res">
+		<img src="./svg/warning.svg" alt="">
+		<h3>Unsupported <br> Resolution</h3>
+		<p>
+			<br>
+			Please access this site on a bigger device.
+			<br>
+			For Galaxy Folds, please unfold your phone.
+		</p>
+	</div>
+</body>
+</html>
